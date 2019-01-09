@@ -3,6 +3,7 @@ public class hanoi
 {
     public static void main(String args[])
     {
+        //tu abhan che
         Scanner sc = new Scanner(System.in);
         System.out.println("How many disk you want to move");
         int n = 4;
